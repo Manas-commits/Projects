@@ -1,0 +1,9 @@
+# SolidWorks auto-generated files
+*.sldlog
+*.slb
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.bak
+*.BAK
+Backup/
